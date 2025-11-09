@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrajaiswal66&show_icons=true&locale=en&layout=compact" alt="narendrajaiswal66" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narendrajaiswal66&show_icons=true&locale=en" alt="narendrajaiswal66" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nare&show_icons=true&locale=en" alt="wabesite" /></p>
